@@ -1,0 +1,6 @@
+gym
+numpy
+tensorboard
+torchvision
+opencv-python
+matplotlib
