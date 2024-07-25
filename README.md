@@ -1,7 +1,7 @@
 # Target Coverage in Directional Sensor Networks
 Maximum target coverage by adjusting the orientation of distributed sensors in directional sensor networks using Deep Reinforcement Learning
 # Training
-To train the orginal model
+To train the original model
 ```
 python main.py --env Pose-v1 --model multi-att-shap --workers 6
 ```
