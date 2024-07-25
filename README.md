@@ -1,7 +1,7 @@
 # Target Coverage in Directional Sensor Networks
 Maximum target coverage by adjusting the orientation of distributed sensors in directional sensor networks using Deep Reinforcement Learning
 # Reference
-```
+```bibtex
 @article{xu2020learning,
   title={Learning Multi-Agent Coordination for Enhancing Target Coverage in Directional Sensor Networks},
   author={Xu, Jing and Zhong, Fangwei and Wang, Yizhou},
@@ -9,5 +9,5 @@ Maximum target coverage by adjusting the orientation of distributed sensors in d
   volume={33},
   year={2020}
 }
-```
+
 
